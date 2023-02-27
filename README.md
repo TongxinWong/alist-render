@@ -12,3 +12,7 @@ Recommended Free MySQL Databases:
 
 ### password
 The initial password is randomly generated, and you can get it by checking the `logs`.
+
+### trigger
+Add messy things to trigger deployment.
+>asdj
